@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Series on 我的一生</title>
-		<link>https://tlanyan.netlify.app/series/</link>
-		<description>Recent content in Series on tlanyan.netlify.app</description>
+		<link>https://tlanyan.github.io/series/</link>
+		<description>Recent content in Series on tlanyan.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-cn</language>
 		<copyright>© Copyright tlanyan | Vitae theme for Hugo</copyright>
 		
-		<atom:link href="https://tlanyan.netlify.app/series/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://tlanyan.github.io/series/index.xml" rel="self" type="application/rss+xml" />
 		
 		
 	</channel>
