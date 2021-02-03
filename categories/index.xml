@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Categories on 我的一生</title>
+		<link>https://tlanyan.netlify.app/categories/</link>
+		<description>Recent content in Categories on tlanyan.netlify.app</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-cn</language>
+		<copyright>© Copyright tlanyan | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Mon, 01 Feb 2021 20:35:14 +0800</lastBuildDate>
+		
+		<atom:link href="https://tlanyan.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>日志</title>
+			<link>https://tlanyan.netlify.app/categories/%E6%97%A5%E5%BF%97/</link>
+			<pubDate>Mon, 01 Feb 2021 20:35:14 +0800</pubDate>
+			
+			<guid>https://tlanyan.netlify.app/categories/%E6%97%A5%E5%BF%97/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>

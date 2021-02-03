@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>日常 on 我的一生</title>
+		<link>https://tlanyan.netlify.app/tags/%E6%97%A5%E5%B8%B8/</link>
+		<description>Recent content in 日常 on tlanyan.netlify.app</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-cn</language>
+		<copyright>© Copyright tlanyan | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Mon, 01 Feb 2021 20:35:14 +0800</lastBuildDate>
+		
+		<atom:link href="https://tlanyan.netlify.app/tags/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>履行计划的第一天</title>
+			<link>https://tlanyan.netlify.app/posts/20210201/</link>
+			<pubDate>Mon, 01 Feb 2021 20:35:14 +0800</pubDate>
+			
+			<guid>https://tlanyan.netlify.app/posts/20210201/</guid>
+			<description>
+				
+				以前都是用石墨文档记录每天待办事项，解决情况。但石墨文档有个问题：离线时无法打开，不方便做记录。这也是促使本人转向使用静态网址记录每日工作的原因之一。
+今天把Hugo网站部署到了Netlify上，按照计划提交今日事项。今天按计划完成了预定任...
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>

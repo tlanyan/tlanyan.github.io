@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hugo on 我的一生</title>
+		<link>https://tlanyan.netlify.app/tags/hugo/</link>
+		<description>Recent content in Hugo on tlanyan.netlify.app</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-cn</language>
+		<copyright>© Copyright tlanyan | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Sun, 31 Jan 2021 10:18:26 +0800</lastBuildDate>
+		
+		<atom:link href="https://tlanyan.netlify.app/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Hello Hugo</title>
+			<link>https://tlanyan.netlify.app/posts/hello/</link>
+			<pubDate>Sun, 31 Jan 2021 10:18:26 +0800</pubDate>
+			
+			<guid>https://tlanyan.netlify.app/posts/hello/</guid>
+			<description>
+				
+				Hugo是一个使用Go语言开发的静态网站生成器，不仅解决了环境依赖、生成速度慢/性能差的问题，还有使用简单、部署方便等优点，极大的提升了写作体验。
+Hugo 可以帮助你快速搭建静态网站，比如博客系统、文档介绍、公司主页、产品介绍等。相对于其...
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>
