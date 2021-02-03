@@ -7,10 +7,24 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-cn</language>
 		<copyright>© Copyright tlanyan | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Mon, 01 Feb 2021 20:35:14 +0800</lastBuildDate>
+		<lastBuildDate>Tue, 02 Feb 2021 10:59:47 +0800</lastBuildDate>
 		
 		<atom:link href="https://tlanyan.netlify.app/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>人无远虑，必有近忧</title>
+			<link>https://tlanyan.netlify.app/posts/20210202/</link>
+			<pubDate>Tue, 02 Feb 2021 10:59:47 +0800</pubDate>
+			
+			<guid>https://tlanyan.netlify.app/posts/20210202/</guid>
+			<description>
+				
+				之前听一位朋友说过：人无远虑，必有近忧。对这句话深有感触，可能也是他比我有钱太多的原因。
+一些事情都喜欢在晚上收尾，但最近回家和宝宝在一起，晚上十点左右她就要睡觉了，我开灯做事也不方便。于是部分事情总会拖到第二天才做，无形中又拖延了。
+今天...
+				
+			</description>
+		</item>
 		<item>
 			<title>履行计划的第一天</title>
 			<link>https://tlanyan.netlify.app/posts/20210201/</link>
@@ -45,8 +59,7 @@ Hugo 可以帮助你快速搭建静态网站，比如博客系统、文档介绍
 			<guid>https://tlanyan.netlify.app/about/</guid>
 			<description>
 				
-				本站永久域名：https://tlanyan.netlify.app，是 tlanyan 的个人日志站，技术网站请访问：https://tlanyan.me。
-本站主要记录每日自己的日常和心得，兴趣所致，随意乱写，只图自己喜欢。人的一生其实...
+				本站Netlify永久域名：https://tlanyan.netlify.app，Github Pages永久域名：https://tlanyan.github.io，是 tlanyan 的个人日志站，技术网站请访问：https://tl...
 				
 			</description>
 		</item>
