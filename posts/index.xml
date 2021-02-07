@@ -7,10 +7,24 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-cn</language>
 		<copyright>© Copyright tlanyan | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Sat, 06 Feb 2021 23:42:12 +0800</lastBuildDate>
+		<lastBuildDate>Sun, 07 Feb 2021 22:57:15 +0800</lastBuildDate>
 		
 		<atom:link href="https://tlanyan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>持之以恒</title>
+			<link>https://tlanyan.github.io/posts/20210207/</link>
+			<pubDate>Sun, 07 Feb 2021 22:57:15 +0800</pubDate>
+			
+			<guid>https://tlanyan.github.io/posts/20210207/</guid>
+			<description>
+				
+				自创立了这个能永远在线的静态博客以来，每天都想着晚上要如何写博客交差，于是躺床上或者刷手机的时间少了许多。这是一个好事情，说明有更多的时间被有效利用了，要持之以恒。
+今天计划和完成的事项有：
+ 运动锻炼，陪小宝玩； 解决了SSH不同端口的认...
+				
+			</description>
+		</item>
 		<item>
 			<title>慢即是快</title>
 			<link>https://tlanyan.github.io/posts/20210206/</link>
