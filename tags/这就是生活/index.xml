@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>这就是生活 on 我的一生</title>
+		<link>https://tlanyan.github.io/tags/%E8%BF%99%E5%B0%B1%E6%98%AF%E7%94%9F%E6%B4%BB/</link>
+		<description>Recent content in 这就是生活 on tlanyan.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-cn</language>
+		<copyright>© Copyright tlanyan | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Thu, 11 Feb 2021 23:36:02 +0800</lastBuildDate>
+		
+		<atom:link href="https://tlanyan.github.io/tags/%E8%BF%99%E5%B0%B1%E6%98%AF%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>这就是生活</title>
+			<link>https://tlanyan.github.io/posts/20210211/</link>
+			<pubDate>Thu, 11 Feb 2021 23:36:02 +0800</pubDate>
+			
+			<guid>https://tlanyan.github.io/posts/20210211/</guid>
+			<description>
+				
+				稍微一松懈，又有几天没写日志了，看来坚持做一件简单的事情也并不容易～
+今天是除夕，群里和生活中过年氛围更浓了。因为疫情原因，估计不少人不能回家过年。好在如今互联网比较发达，社交媒体上大家一如既往的描述了对新年放假的喜悦，以及对新一年美好生活...
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>

@@ -7,10 +7,23 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-cn</language>
 		<copyright>© Copyright tlanyan | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Sun, 07 Feb 2021 22:57:15 +0800</lastBuildDate>
+		<lastBuildDate>Thu, 11 Feb 2021 23:36:02 +0800</lastBuildDate>
 		
 		<atom:link href="https://tlanyan.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>这就是生活</title>
+			<link>https://tlanyan.github.io/posts/20210211/</link>
+			<pubDate>Thu, 11 Feb 2021 23:36:02 +0800</pubDate>
+			
+			<guid>https://tlanyan.github.io/posts/20210211/</guid>
+			<description>
+				
+				稍微一松懈，又有几天没写日志了，看来坚持做一件简单的事情也并不容易～
+今天是除夕，群里和生活中过年氛围更浓了。因为疫情原因，估计不少人不能回家过年。好在如今互联网比较发达，社交媒体上大家一如既往的描述了对新年放假的喜悦，以及对新一年美好生活...
+				
+			</description>
+		</item>
 		<item>
 			<title>持之以恒</title>
 			<link>https://tlanyan.github.io/posts/20210207/</link>
