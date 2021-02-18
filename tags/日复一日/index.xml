@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>日复一日 on 我的一生</title>
+		<link>https://tlanyan.github.io/tags/%E6%97%A5%E5%A4%8D%E4%B8%80%E6%97%A5/</link>
+		<description>Recent content in 日复一日 on tlanyan.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-cn</language>
+		<copyright>© Copyright tlanyan | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Wed, 17 Feb 2021 21:42:12 +0800</lastBuildDate>
+		
+		<atom:link href="https://tlanyan.github.io/tags/%E6%97%A5%E5%A4%8D%E4%B8%80%E6%97%A5/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>日复一日</title>
+			<link>https://tlanyan.github.io/posts/20210218/</link>
+			<pubDate>Wed, 17 Feb 2021 21:42:12 +0800</pubDate>
+			
+			<guid>https://tlanyan.github.io/posts/20210218/</guid>
+			<description>
+				
+				稍微懈怠一下，又是好几天没写日志了。虽然每次写日志都是非常简单的几句话，但要每天持续不断做下去，也不是一个简单的事情。
+今天初七，是牛年第一个工作日，接下来大部分人断断续续就要进入上班状态了。暂时还没有回去，因此也就没什么上班状态。
+今天某...
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>
