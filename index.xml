@@ -7,10 +7,24 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-cn</language>
 		<copyright>© Copyright tlanyan | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Tue, 23 Feb 2021 11:17:09 +0800</lastBuildDate>
+		<lastBuildDate>Tue, 09 Mar 2021 23:32:38 +0800</lastBuildDate>
 		
 		<atom:link href="https://tlanyan.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>调整心态</title>
+			<link>https://tlanyan.github.io/posts/20210309/</link>
+			<pubDate>Tue, 09 Mar 2021 23:32:38 +0800</pubDate>
+			
+			<guid>https://tlanyan.github.io/posts/20210309/</guid>
+			<description>
+				
+				又是好久没来这里写了，因为最近心态不是很好。
+一个原因是股市波动，导致工作时心绪受影响；另一个原因是最近睡眠不好，晚上很困但还是很晚才能入睡，整个人感觉精神状态不佳。打算出去跑步，但这段时间要么冷空气，要么空气质量不好，也没出去实践。
+这段...
+				
+			</description>
+		</item>
 		<item>
 			<title>未雨绸缪</title>
 			<link>https://tlanyan.github.io/posts/20210223/</link>
